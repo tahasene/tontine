@@ -13,3 +13,4 @@ def enregistrer_cotisation(membre_id, montant, date, cycle):
 
 
 def verifier_retards(membre_id):
+
